@@ -1,6 +1,8 @@
 # Online Chat Application in java Netbeans
 
- The app connects to remote database and enables us to chat with online people. 
+
+
+ The app is created in java netbeans. It connects to remote database and enables us to chat with online people. 
  This can be considered as a class 12 project. And this is clearly not the way, a real time chat app is implemented. 
  But it will give you a basic overview of how we can implement chat with just MySQL and java.
  
