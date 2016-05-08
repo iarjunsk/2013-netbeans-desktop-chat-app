@@ -7,3 +7,5 @@
  But it will give you a basic overview of how we can implement chat with just MySQL and java.
  
  Read my tutorial here: http://www.arjunsk.com/java/online-chat-application-in-java-netbeans/
+
+ Here, I have used the free remote MySQL Provider : https://db4free.net/signup.php
